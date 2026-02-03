@@ -141,7 +141,7 @@ window.addEventListener('scroll', trackActiveSection);
 
 // Text automate typing
 var typed = new Typed(".text", {
-    strings: ["CSIT Student...","Web Developer...", "Web Designer...", "Python Developer...", "Django Developer..."],
+    strings: ["CSIT Student...","Web Developer...", "Web Designer...", "Python Developer..."],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
